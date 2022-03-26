@@ -107,9 +107,13 @@ main p{
     text-align: justify;
 }
 
+main img{
+    width: 100%;
+}
+
 main img.pequena{
-        max-width: 350px;
-        display: block;
+    max-width: 350px;
+    display: block;
     margin: auto;
 }
 
@@ -146,10 +150,6 @@ main a{
 main a:hover{
     background-color: rgb(56, 131, 100);
     color: white;
-}
-
-picture{
-    width: 100%;
 }
 
 aside > h3{
