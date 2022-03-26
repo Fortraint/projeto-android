@@ -149,9 +149,7 @@ main a:hover{
 }
 
 picture{
-    width: 100%;    
-    display: block;
-    text-align: center;
+    width: 100%;
 }
 
 aside > h3{
